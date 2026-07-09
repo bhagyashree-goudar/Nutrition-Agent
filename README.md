@@ -5,6 +5,11 @@ AI-Powered Nutrition Agent is an intelligent virtual nutrition assistant built u
 
 ---
 
+### 🌐 Live Demo
+https://nutrition-agent-teal.vercel.app
+
+---
+
 ## ✨ Features
 
 | Feature | Description |
